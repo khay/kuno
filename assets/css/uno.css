@@ -1683,5 +1683,13 @@ input[type="tel"] {
     display: block;
     margin-bottom: .4em; } }
 
-
 iframe { width: 100%; }
+.share {
+  margin-bottom: 1.8em;
+}
+.share a {
+  color: #BBC7CC;
+  margin-right: .4em; } 
+  .share a:hover {
+    color: #50585D; }
+  .share a i { font-size: 1.8rem; }
